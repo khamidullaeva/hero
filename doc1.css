@@ -13,4 +13,24 @@
     font-family: "Poppins";
     font-weight: 800;
 }
-.
+.header-info{
+    background-color:#926FF6;
+    color:aliceblue;
+
+
+}
+.header-info > h1{
+    font-family:"Poppins";
+    font-weight: 800;
+    font-size: 62;
+}
+.header-info > p{
+    font-family:"Poppins";
+    font-size: 12px;
+   color: #FFE074;
+    
+}
+
+.middle{
+    background-color: white;
+}
