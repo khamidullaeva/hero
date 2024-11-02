@@ -53,3 +53,26 @@ body{
 .container > p{
     font-family: Poppins;
 }
+.h2{
+    font-size: 16px;
+}
+.p1{
+    color: #FFAE00;
+    font-family: Poppins;
+}
+.container > h1{
+    font-family:Poppins;
+}
+.buttons > button:hover{
+background-color: #F3849F !important;
+color:white;
+border-radius: 10px;
+}
+.buttons > button.active{
+    background-color: #F3849F !important;
+color:white;
+border-radius: 10px;
+}
+.img-grid  img{
+    height: 350px;
+}
