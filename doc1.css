@@ -53,8 +53,8 @@ body{
 .container > p{
     font-family: Poppins;
 }
-.h2{
-    font-size: 16px;
+.h3{
+    font-size: 16px !important;
 }
 .p1{
     color: #FFAE00;
@@ -75,4 +75,57 @@ border-radius: 10px;
 }
 .img-grid  img{
     height: 350px;
+}
+.div10{
+
+    background-color: #F7EEFF;
+}
+.p3{
+    color: #FFAE00;
+    font-family: Poppins;
+    font-size:12px;
+
+}
+.h2{
+    font-size: 24px;
+    font-family: Poppins;
+}
+.div2{
+    background-color: #F7EEFF;
+   
+}
+.p1{
+    color: #F3849F;
+    font-size: 12px;
+    font-family:Poppins;
+}
+.c1{
+    color:#926FF6;
+    font-size: 12px;
+    font-family:Poppins;
+}
+.b1{
+    color:#79CFFF;
+   
+    font-size: 12px;
+    font-family:Poppins;
+}
+.a1{
+   color:#4F4F4F; 
+    font-size: 14px;
+    font-family:Poppins;
+}
+.class1{
+    width: 100%;
+    height: 154px;
+    background-color: #333333;
+   
+}
+.t9{
+    color: white;
+}
+.h4{
+    color:#F3849F !important;
+    font-size: 16px !important;
+    font-family: Poppins !important;
 }
